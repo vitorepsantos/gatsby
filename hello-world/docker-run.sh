@@ -1,0 +1,1 @@
+docker run --name mynginx4 -P -d mynginximage2
